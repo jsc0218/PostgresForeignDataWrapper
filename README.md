@@ -1,4 +1,4 @@
-# This repo has been moved [here](https://github.com/vidardb/PostgresForeignDataWrapper) and will be maintained by VidarDB team.
+# This repo has been moved to [VidarDB](https://github.com/vidardb/PostgresForeignDataWrapper), and will be maintained by the VidarDB team.
 
 # PostgresForeignDataWrapper
 
