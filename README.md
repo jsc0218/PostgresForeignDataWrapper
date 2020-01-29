@@ -1,3 +1,5 @@
+# This repo has been moved [here](https://github.com/vidardb/PostgresForeignDataWrapper) and will be maintained by VidarDB team.
+
 # PostgresForeignDataWrapper
 
 This PostgreSQL extension implements a Foreign Data Wrapper (FDW) for [RocksDB](https://rocksdb.org/)
